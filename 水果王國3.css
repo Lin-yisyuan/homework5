@@ -1,0 +1,57 @@
+body {
+    background-image:url("images/美美風景圖.jpg");
+    background-repeat:no-repeat;
+    background-position:right top;
+    background-size:cover;
+    }
+
+h1 {
+color:orange;
+font-family:"標楷體";
+font-size:60px; 
+text-indent: 50px; }
+
+h2 {
+color:#ff9933;
+text-align:center;
+font-family:"標楷體"; 
+font-size:110px;}
+
+h3 {
+color:#000000;
+font-family:"標楷體";
+font-size:35px;
+}
+
+h4 {
+color:#ff6600;
+text-align:center;
+font-family:"標楷體";
+font-size:35px;
+background-color: #dd99ff;
+}
+
+h5{
+color:#ff66ff;
+text-align:center;
+font-family:"標楷體";
+font-size:20px;
+}
+
+
+
+a:link {
+    color:#ff3399;
+    text-decoration: none;}
+
+a:visited {
+    color:#00FF00;
+    text-decoration: none;}
+
+a:hover {
+    color:#ff1a1a;
+    text-decoration: underline;}
+
+a:active {
+    color:#0000FF;
+    text-decoration: none;}
